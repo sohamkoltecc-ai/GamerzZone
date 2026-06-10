@@ -1,6 +1,6 @@
 # GamerzZone
 
-🎮 Welcome to GamerzZone 🎮
+## 🎮 Welcome to GamerzZone 🎮
 
 GamerzZone is the ultimate social platform built for gamers. Connect with friends, join gaming communities, discover tournaments, and chat with players who share your passion for gaming.
 
@@ -8,37 +8,37 @@ Whether you're a casual player, esports enthusiast, or community leader, GamerzZ
 
 Features
 
-💬 Real-Time Chat
+## 💬 Real-Time Chat
 
 Direct messaging with friends
 Community and clan discussions
 Fast and secure conversations
 
-🎮 Gaming Communities
+## 🎮 Gaming Communities
 
 Join communities for your favorite games
 Meet new teammates
 Share tips, strategies, and experiences
 
-🏆 Tournaments & Events
+## 🏆 Tournaments & Events
 
 Discover upcoming tournaments
 Stay updated on gaming events
 Connect with competitive players
 
-👥 Friends System
+## 👥 Friends System
 
 Add and manage friends
 View online status
 Build your gaming network
 
-🔥 Discover New Gamers
+## 🔥 Discover New Gamers
 
 Find players based on your interests
 Explore trending communities
 Connect with gamers worldwide
 
-🎨 Modern Gaming Experience
+## 🎨 Modern Gaming Experience
 
 Dark gaming-inspired theme
 Smooth and responsive interface
@@ -47,9 +47,9 @@ Why GamerzZone?
 
 GamerzZone is more than just a chat application. It's a place where gamers can socialize, compete, collaborate, and grow together in one unified platform.
 
-Connect. Play. Chat.
+### Connect. Play. Chat.
 
-Welcome to GamerzZone. 🚀🎮🔥
+## Welcome to GamerzZone. 🚀🎮🔥
 
 # ScreenShot
 
